@@ -1,6 +1,7 @@
 
 <h2> Data Analysis Projects</h2>
 - Python web scraping tool to scrape PDF files from URL and get Top 20 common words: (https://github.com/sche-best/Webscraping_PDF.git)
+- Analysis of US Unemployment Rates using FRED API in Python (https://github.com/sche-best/Unemp_analysis.git)
 
 
 <!--
