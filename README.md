@@ -1,7 +1,9 @@
 
 <h2> Data Analysis Projects</h2>
 
-- MySQL Database and OLS regression project in Python (https://github.com/sche-best/Database_project.git) 
+- MySQL Database and OLS regression project in Python (https://github.com/sche-best/Database_project.git)
+
+- Time Series Analysis of the SAMSUNG stock using the SARIMAX library in Python (https://github.com/sche-best/Samsung_Stock_TA.git)
 
 - Analysis of US Unemployment Rates using FRED API in Python (https://github.com/sche-best/Unemp_analysis.git)
 
