@@ -3,6 +3,7 @@
 
 - Handwritten Letters Classification with Input Function using a CNN (https://github.com/sche-best/Letter_Classification.git)
 
+- Sentiment Analyzer + Mastodon API Request (https://github.com/sche-best/Sentiment_Analyzer/blob/main/sentiment-analyzer.ipynb)
 - MySQL Database and OLS regression project in Python (https://github.com/sche-best/Database_project.git)
 
 - Time Series Analysis of the SAMSUNG stock using the SARIMAX library in Python (https://github.com/sche-best/Samsung_Stock_TA.git)
