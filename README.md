@@ -1,6 +1,8 @@
 
 <h2> Data Analysis Projects</h2>
 
+- Created an automated Python pipeline to scrape, process, and store NBA player statistics from multiple seasons and game types into a MySQL database for comprehensive data analysis (https://github.com/sche-best/NBA_ETL.git)
+
 - Handwritten Letters Classification with Input Function using a CNN (https://github.com/sche-best/Letter_Classification.git)
 
 - Sentiment Analyzer + Mastodon API Request (https://github.com/sche-best/Sentiment_Analyzer.git)
