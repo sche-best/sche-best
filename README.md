@@ -7,13 +7,7 @@
 
 - Sentiment Analyzer + Mastodon API Request (https://github.com/sche-best/Sentiment_Analyzer.git)
   
-- MySQL Database and OLS regression project in Python (https://github.com/sche-best/Database_project.git)
 
-- Time Series Analysis of the SAMSUNG stock using the SARIMAX library in Python (https://github.com/sche-best/Samsung_Stock_TA.git)
-
-- Analysis of US Unemployment Rates using FRED API in Python (https://github.com/sche-best/Unemp_analysis.git)
-
-- Python web scraping tool to scrape PDF files from URL and get Top 20 common words: (https://github.com/sche-best/Webscraping_PDF.git)
 
  
 
