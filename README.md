@@ -1,6 +1,6 @@
 <h2> Langchain Projects</h2>
 
-- 
+- OpenAI enabled Chat Bots with Streamlit UI and local Database for efficient File Management (https://github.com/sche-best/langchain_scripts.git)
 
 <h2> Data Analysis Projects</h2>
 
